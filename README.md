@@ -2,8 +2,8 @@ Angels vs Demons: Battle for the Skies Welcome to Angels vs Demons: Battle for t
 
 Gameplay In this action-packed flighting game, you can either ascend as angelic warriors or descend as demonic forces. Master unique abilities, unleash devastating attacks, and dominate the skies to claim victory for your faction. Engage in intense aerial battles, execute breathtaking maneuvers, and prove your supremacy in the war between light and darkness.
 
-Download the game resource files from the following Google Drive link: https://drive.google.com/drive/folders/1GR9XgSbZvn5IWUclKpl3qgVPh4fBA8DQ?usp=sharing .
-Youtube video: https://youtu.be/sxFXOYFzKVg
+Download the game resource files from the following Google Drive link: https://drive.google.com/drive/folders/1TxrIkb_7kJRVAnL2uhczT4ddBTIRlJLU?usp=sharing .
+Youtube video: https://www.youtube.com/watch?v=cfByaTARJSk
 
 Once the download is complete, extract the files to a desired location on your computer.
 
